@@ -4,7 +4,7 @@
 #include "aipy_compat.h"
 #include "miriad_wrap.h"
 
-#define MAXVAR 32768
+#define MAXVAR 100000
 
 /*____                           _                    _
  / ___|_ __ ___  _   _ _ __   __| |_      _____  _ __| | __
